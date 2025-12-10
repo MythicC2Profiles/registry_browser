@@ -5,5 +5,6 @@
   "exclude_documentation_c2": false,
   "exclude_agent_icons": false,
   "remote_images": {
+    "registry_browser": "ghcr.io/mythicc2profiles/registry_browser:v0.0.1"
   }
 }
